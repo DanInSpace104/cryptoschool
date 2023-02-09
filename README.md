@@ -5,6 +5,9 @@ This repository contains homework and Labs for DistributedLab course.
 You need to install pytest lib to run tests. `python3 -m pip install pytest`
 To run tests: `pytest`
 
+## Running
+- Large numbers task: `python3 large_numbers.py`
+
 # Baby blockchain implementation - Project Sansara
 ## Overview
 Anonymous reputation / karma system similar to that on habr.com. Anonymity of all authors ensure honest voting without influence of author name and personal grudges. It allows open discussion of difficult social topics or non-popuar opinions, which is especially actual with modern cancelling culture. Anonymity benefits its readers in countries where you can be arrested for simple "like" on wrong post in social media. Also the system protects from spamming votes with bot accounts and some other methods of vote cheating. 
